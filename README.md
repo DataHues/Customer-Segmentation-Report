@@ -16,7 +16,7 @@ The report includes the following sections:
 
 The dataset is a **structured** dataset in the retail domain, focusing on customer purchasing behavior. The data contains attributes related to customer demographics and purchase activities.
 
-- **Source**: Fictional dataset created for educational purposes.
+- **Source**: [Customer Purchasing Behaviors Dataset](https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors/data) by H. Aksoy on Kaggle.
 - **Time Interval**: No specific time interval is provided since it is fictional data.
 - **Basic Statistics**:
   - Number of Rows: 238
@@ -104,11 +104,11 @@ The **K-means clustering** algorithm was applied to the preprocessed data. The *
 
 *Figure 1: Elbow Method Visualization*
 
-- **Figure 2: PCA Visualization of the Clusters**
-  
-  ![PCA Visualization](path_to_your_image/pca_clusters.png)
-  
-  PCA was used to visualize the 3 clusters in two dimensions. Each color represents a different customer segment.
+PCA was used to visualize the 3 clusters in two dimensions. Each color represents a different customer segment.
+
+  ![PCA Visualization](https://github.com/DataHues/Customer-Segmentation-Report/blob/4a1262ab907f1f4981fab04fb3efd79e97bf1215/pca_clusters.png)
+
+*Figure 2: PCA Visualization of the Clusters*
 
 ### Specific Results:
 - **Cluster 0** represents younger, low-income, low-loyalty customers.
@@ -153,3 +153,4 @@ The **K-means clustering** algorithm was applied to the preprocessed data. The *
 
 - **Smith, J. (2021)**. _Customer Segmentation using K-means_, International Journal of Data Science.
 - **Doe, A. (2020)**. _Clustering Techniques in Marketing_, Data Analytics Review.
+- **Aksoy, H. (2023)**. *Customer Purchasing Behaviors* [Data set]. Kaggle. https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors/data
