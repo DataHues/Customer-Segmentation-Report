@@ -42,15 +42,6 @@ All numerical features were normalized using standard scaling (`StandardScaler`)
 **Why this dataset?**
 This dataset is interesting because it provides a realistic set of customer purchasing behavior data, which is crucial for real-world marketing strategies such as targeted promotions, retention programs, and product recommendations.
 
----
-
-### **1.2 Substantive Context**
-
-This fictional dataset has been used in multiple educational settings for demonstrating clustering techniques. Similar datasets have been used in publications related to customer analytics and targeted marketing.
-
-#### **Relevant Publications**:
-- **Smith, J. (2021)**. _Customer Segmentation using K-means_, International Journal of Data Science.
-- **Doe, A. (2020)**. _Clustering Techniques in Marketing_, Data Analytics Review.
 
 ---
 
@@ -152,6 +143,4 @@ PCA was used to visualize the 3 clusters in two dimensions. Each color represent
 
 ## **6. References**
 
-- **Smith, J. (2021)**. _Customer Segmentation using K-means_, International Journal of Data Science.
-- **Doe, A. (2020)**. _Clustering Techniques in Marketing_, Data Analytics Review.
 - **Aksoy, H. (2023)**. *Customer Purchasing Behaviors* [Data set]. Kaggle. https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors/data
