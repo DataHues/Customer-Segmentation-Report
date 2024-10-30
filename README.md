@@ -72,6 +72,7 @@ This fictional dataset has been used in multiple educational settings for demons
 
 #### **Tools Used**:
 - **Python**: For data manipulation and analysis.
+  - [Customer Segmentation Analysis](https://github.com/DataHues/Customer-Segmentation-Report/blob/d6ce3f86323e5960d4d8fb237aec27daafcfa73f/Customer_Purchasing_Behavior.ipynb): This notebook contains the full data processing, clustering, and visualization steps.
 - **scikit-learn**: For applying K-means clustering.
 - **Matplotlib**: For visualizations.
 
