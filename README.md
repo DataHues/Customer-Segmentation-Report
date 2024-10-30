@@ -97,11 +97,12 @@ The **K-means clustering** algorithm was applied to the preprocessed data. The *
 | 2       | 50.4    | 70,391     | 589.42              | 8.93          | 25.01              |
 
 ### Figures:
-- **Figure 1: Elbow Method Visualization**
-  
-  ![Elbow Method](path_to_your_image/elbow_method.png)
-  
+
   The Elbow Method was used to determine the optimal number of clusters, which is **3**.
+  
+  ![Elbow Method](https://github.com/DataHues/Customer-Segmentation-Report/blob/65bcbeb96a2a9d2020e8b90b7a27f95d799d3e6e/elbow_method.png)
+
+*Figure 1: Elbow Method Visualization*
 
 - **Figure 2: PCA Visualization of the Clusters**
   
